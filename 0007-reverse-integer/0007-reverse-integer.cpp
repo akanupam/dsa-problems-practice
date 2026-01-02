@@ -1,4 +1,3 @@
-#include<bits/stdc++.h>
 class Solution {
 public:
     int reverse(int x) {
